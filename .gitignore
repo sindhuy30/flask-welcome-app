@@ -1,0 +1,13 @@
+# Byte‑compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Editor / OS cruft
+.DS_Store
+.idea/
+.vscode/
