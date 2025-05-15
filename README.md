@@ -1,6 +1,7 @@
-# Welcome Flask App
+# Welcome Flask App 
 
-A clean and minimal Flask starter with form handling, template rendering, and PureCSS styling—ideal for quick prototyping or learning.
+
+It's a clean and minimal Flask starter with form handling, template rendering, and PureCSS styling—ideal for quick prototyping or learning.
 
 ## Quick start
 
