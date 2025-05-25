@@ -6,9 +6,9 @@ Welcome Flask App is a minimal, production-ready Flask starter template designed
 
 **Technology Stack**
 
-Backend: Python 3, Flask
-Frontend: HTML, Jinja2, PureCSS
-Tools: Virtual environments (venv), pip
+1. Backend: Python 3, Flask
+2. Frontend: HTML, Jinja2, PureCSS
+3. Tools: Virtual environments (venv), pip
 
 ## Quick start
 
