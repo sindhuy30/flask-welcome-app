@@ -10,6 +10,8 @@ Welcome Flask App is a minimal, production-ready Flask starter template designed
 2. Frontend: HTML, Jinja2, PureCSS
 3. Tools: Virtual environments (venv), pip
 
+**Project Structure**
+
 ## Quick start
 
 ```bash
@@ -30,5 +32,5 @@ python app.py
 
 Access the application at http://127.0.0.1:5000.
 
-**Project Structure**
+
 
