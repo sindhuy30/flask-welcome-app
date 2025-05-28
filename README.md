@@ -13,12 +13,19 @@ Welcome Flask App is a minimal, production-ready Flask starter template designed
 ## Project Structure
 
 flask-welcome-app/
-├── app.py                # Flask application entry point
-├── requirements.txt      # Project dependencies
-├── templates/            # Jinja2 HTML templates
+
+├── app.py      # Main Flask application
+
+├── requirements.txt      # Python dependencies
+
+├── templates/            # HTML templates (Jinja2)
+
 │   └── index.html
+
 ├── static/               # Static assets (CSS, images)
+
 │   └── styles.css
+
 └── README.md             # Project documentation
 
 
